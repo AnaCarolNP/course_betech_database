@@ -1,4 +1,4 @@
-# Análise Exploratória do Dataset "Disney Plus Movies and TV Shows"
+# Análise Exploratória do Dataset "Disney Plus Movies and TV Shows" 🎬
 
 Neste notebook, realizamos uma análise exploratória do dataset "Disney Plus Movies and TV Shows". O objetivo foi obter insights sobre os filmes e programas de TV disponíveis na plataforma Disney Plus.
 
@@ -42,3 +42,8 @@ Durante a análise, foram utilizadas as seguintes bibliotecas:
 2. Análise Descritiva: Realizamos uma análise descritiva dos dados, explorando as informações contidas nas colunas. As análises realizadas incluíram a verificação da tipagem dos dados, a contagem de valores nulos em cada coluna e a contagem de valores únicos nas colunas categóricas.
 
 3. Consultas SQL: Utilizamos a biblioteca pandasql para executar consultas SQL nos dados, obtendo insights sobre os filmes e programas de TV.
+
+## 🚀 Equipe de Desenvolvimento
+- Ana Carolina Nazareth
+- Amanda Mirelly Mendes Frazão
+- Renata Lima Ribeiro de Sena
