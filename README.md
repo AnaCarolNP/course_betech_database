@@ -1,6 +1,6 @@
 # Análise Exploratória do Dataset "Disney Plus Movies and TV Shows" 🎬
 
-Neste notebook, realizamos uma análise exploratória do dataset "Disney Plus Movies and TV Shows". O objetivo foi obter insights sobre os filmes e programas de TV disponíveis na plataforma Disney Plus.
+No notebook que pode ser encontrado nesse repositório em .html e em .ipynb, realizamos uma análise exploratória do dataset "Disney Plus Movies and TV Shows". O objetivo foi obter insights sobre os filmes e programas de TV disponíveis na plataforma Disney Plus.
 
 ### ℹ️ Fonte dos Dados
 Os dados utilizados foram obtidos no Kaggle a partir do seguinte link: [Dataset Disney Plus Shows on Kaggle](https://www.kaggle.com/datasets/unanimad/disney-plus-shows).
