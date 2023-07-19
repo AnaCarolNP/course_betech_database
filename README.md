@@ -42,6 +42,3 @@ Durante a análise, foram utilizadas as seguintes bibliotecas:
 2. Análise Descritiva: Realizamos uma análise descritiva dos dados, explorando as informações contidas nas colunas. As análises realizadas incluíram a verificação da tipagem dos dados, a contagem de valores nulos em cada coluna e a contagem de valores únicos nas colunas categóricas.
 
 3. Consultas SQL: Utilizamos a biblioteca pandasql para executar consultas SQL nos dados, obtendo insights sobre os filmes e programas de TV.
-
-## ℹ️ Observações
-Este notebook é uma simulação e não contém os códigos reais utilizados. As seções acima fornecem uma visão geral do que foi feito e das bibliotecas utilizadas durante a análise exploratória.
